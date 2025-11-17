@@ -31,7 +31,7 @@
 	],
 	"dependencies": {
 		"@rocket.chat/core-typings": "workspace:^",
-		"@rocket.chat/rest-typings": "workspace:^",
+		"@rocket.chat/rest-typings": "6.3.0",
 		"ajv": "^8.17.1",
 		"express": "^4.21.2",
 		"hono": "^4.6.19",

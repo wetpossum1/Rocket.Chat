@@ -14,7 +14,7 @@
 	"dependencies": {
 		"@rocket.chat/model-typings": "workspace:~",
 		"@rocket.chat/random": "workspace:^",
-		"@rocket.chat/rest-typings": "workspace:^",
+		"@rocket.chat/rest-typings": "6.3.0",
 		"@rocket.chat/sha256": "workspace:^",
 		"@rocket.chat/string-helpers": "^0.31.25",
 		"@rocket.chat/tracing": "workspace:^",
